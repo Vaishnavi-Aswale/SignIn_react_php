@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+    background-image: url("https://prod-eduvanz-bucket.s3.ap-south-1.amazonaws.com/eduvanz-portal/assets/img/new-dark-bg2.png");
+    background-repeat: repeat;
+    background-position: all;
+    background-size:cover;
+    background-color:#181f25;
+}
+Media {
+    /* margin-left: 0px auto 0 !important; */
+    width: auto;
+    height: auto;
+    float:left;
+    padding:22.5px 0px 0px 10px;
+    margin-left: 20px;
+    
+}
+.login .content .form-actions {
+    border-bottom: 0px solid #eee !important;
+}
+
+.form{
+    background-color: #ffff;
+    width:450px;
+    height:350px;
+    padding: 30px;
+    border-radius: 15px;
+    justify-content: center;
+}
+
+
+.signin{
+    color: #32C5D2;
+    font: 33px "Open Sans", sans-serif;
+    margin: 20px 0px 25px;
+    text-align: center;
+}
+
+.inputfield{
+    background-color: #dde3ec;
+    
+}
